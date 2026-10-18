@@ -10,6 +10,7 @@
 
 # Xcode build output and user-specific settings
 build/
+dist/
 DerivedData/
 xcuserdata/
 *.xcuserstate
